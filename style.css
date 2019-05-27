@@ -11,3 +11,6 @@ h1 {
 #sub-head {
 	color: #583d3d;
 }
+.h1-container h1{
+	display: inline-block;
+}
